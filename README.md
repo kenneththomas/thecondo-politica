@@ -1,2 +1,8 @@
 # cechat-politica
-Keeps track of the Politica in CEChat
+Keeps track of Politica in CEChat
+
+Administrators:
+Breez
+Bok
+Armando
+Croon
